@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Download, Mail, FolderGit2, Github, Linkedin } from "lucide-react";
-import portfolioImg from "../../../../portfolio img.jpeg";
+import portfolioImg from "@/assets/portfolio img.jpeg";
 
 // import resume from "@/assets/Saad_M_Resume.pdf";
 import resume from "@/assets/Saad_M_Resume.pdf";
